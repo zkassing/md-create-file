@@ -1,0 +1,11 @@
+{
+  "name": "md-create-file",
+  "version": "1.0.0",
+  "description": "自动根据md文章目录生成对应的md文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
